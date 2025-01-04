@@ -6,6 +6,8 @@ public class LeetCodeAttempt {
 
         System.out.println(numberOfWaysToSplitArray(new int[]{10,4,-8,7}));
 
+        System.out.println(numberOfWaysToSplitArray(new int[]{2,3,1,0}));
+
     }
 
     public static int numberOfWaysToSplitArray(int[] nums) {
